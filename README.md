@@ -56,6 +56,8 @@ This is a new  line
 `Mono space`
 
 1. Apple
+* Green
+* Red
 2. Orange
 3. Pineapple
 
