@@ -66,4 +66,4 @@ This is a new  line
 Click [here] (https://google.co.in)
 This is a [site] [site_url]
 
-[site_url]: 'http://m.timesofindia.com' "news"
+[site_url]: http://m.timesofindia.com "news"
